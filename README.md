@@ -1,6 +1,10 @@
+<div align="center">
+
 # Hi 👋, I'm Vinay Joshi
 
 ### Computer Science Engineer | Full-Stack Developer
+
+</div>
 
 <p align="center">
   <img src="./github-banner.png" width="750">
