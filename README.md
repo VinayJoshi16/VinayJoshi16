@@ -1,3 +1,11 @@
+# Hi 👋, I'm Vinay Joshi
+
+### Computer Science Engineer | Full-Stack Developer
+
+<p align="center">
+  <img src="./github-banner.png" width="750">
+</p>
+
 # 💫 About Me:
 
 ### 🔭 I’m currently working on
