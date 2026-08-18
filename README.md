@@ -1,22 +1,51 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>
-Full-stack web applications using the MERN stack, while exploring system design, scalable backend architectures, and AI-powered features.<br><br>
 
-👯 I’m looking to collaborate on<br><br>
-Open-source projects, innovative full-stack applications, and projects involving AI, web development, and scalable system design.<br><br>
+### 🔭 I’m currently working on
 
-🤝 I’m looking for help with<br><br>
-Improving my system design skills, building production-ready applications, and learning best practices for designing scalable and reliable software systems.<br><br>
+→ Full-Stack Development using the MERN Stack  
+→ Scalable Backend Applications  
+→ System Design & Backend Architecture  
+→ AI-powered Features and Applications  
 
-🌱 I’m currently learning<br><br>
-System Design, Advanced DSA, Cloud & DevOps, and AI/LLM technologies to build scalable, reliable, and intelligent applications.<br><br>
+### 👯 I’m looking to collaborate on
 
-💬 Ask me about<br><br>
-C++, DSA, MERN Stack, React, Node.js, MongoDB, SQL, Git, Docker, and full-stack development.<br><br>
+→ Open-Source Projects  
+→ Innovative MERN Stack Applications  
+→ AI & LLM-based Projects  
+→ Scalable Web Applications  
+→ Developer Tools & Backend Systems  
 
-⚡ Fun fact<br><br>
-I enjoy turning ideas into working projects, solving challenging DSA problems, and exploring new technologies by building real-world applications.
+### 🤝 I’m looking for help with
 
+→ System Design & Distributed Systems  
+→ Scalable Backend Architecture  
+→ Production-Ready Applications  
+→ Database Design & Optimization  
+→ Backend Performance Optimization  
+
+### 🌱 I’m currently learning
+
+→ Advanced Data Structures & Algorithms  
+→ System Design & Distributed Systems  
+→ Cloud & DevOps  
+→ AI/LLM Technologies  
+→ Backend Engineering & Scalability  
+
+### 💬 Ask me about
+
+→ C++ & Data Structures & Algorithms  
+→ JavaScript, React & Node.js  
+→ MERN Stack Development  
+→ MongoDB & SQL  
+→ Git & Docker  
+→ Full-Stack & Backend Development  
+
+### ⚡ Fun fact
+
+→ I enjoy turning ideas into real-world projects  
+→ I love solving challenging DSA problems  
+→ I enjoy exploring new technologies by building with them  
+→ I believe the best way to learn is by building
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vinayjoshi_07/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinay-joshi-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinay.joshi1608@gmail.com) 
