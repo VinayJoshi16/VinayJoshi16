@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Full-stack web applications using the MERN stack, while exploring system design, scalable backend architecture, and AI-powered features.<br><br>👯 I’m looking to collaborate on<br><br>Open-source projects, innovative full-stack applications, and projects involving AI, web development, and scalable system design.<br><br>🤝 I’m looking for help with<br><br>Improving my system design skills, building production-ready applications, and learning best practices for designing scalable software systems.<br><br>🌱 I’m currently learning<br><br>System Design, Advanced DSA, Cloud & DevOps, and AI/LLM technologies to build scalable and intelligent applications.<br><br>💬 Ask me about<br><br>C++, DSA, MERN Stack, React, Node.js, MongoDB, SQL, Git, Docker, and building full-stack applications.<br><br>⚡ Fun fact<br><br>I enjoy turning ideas into working projects, solving challenging DSA problems, and exploring new technologies by building things with them.
+🔭 I’m currently working on<br><br>
+Full-stack web applications using the MERN stack, while exploring system design, scalable backend architectures, and AI-powered features.<br><br>
+
+👯 I’m looking to collaborate on<br><br>
+Open-source projects, innovative full-stack applications, and projects involving AI, web development, and scalable system design.<br><br>
+
+🤝 I’m looking for help with<br><br>
+Improving my system design skills, building production-ready applications, and learning best practices for designing scalable and reliable software systems.<br><br>
+
+🌱 I’m currently learning<br><br>
+System Design, Advanced DSA, Cloud & DevOps, and AI/LLM technologies to build scalable, reliable, and intelligent applications.<br><br>
+
+💬 Ask me about<br><br>
+C++, DSA, MERN Stack, React, Node.js, MongoDB, SQL, Git, Docker, and full-stack development.<br><br>
+
+⚡ Fun fact<br><br>
+I enjoy turning ideas into working projects, solving challenging DSA problems, and exploring new technologies by building real-world applications.
 
 
 ## 🌐 Socials:
